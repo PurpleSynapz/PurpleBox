@@ -1,0 +1,3 @@
+# PurpleBox
+Being regularly engaged in red teaming activities with reputed organizations, PurpleSynapz has begun to maintain a repository of vulnerabilities they come across during live projects. This repository is utilized to train & assess their researchers before exposing them to the real world operations. Available in form of an intentionally vulnerable virtual machine, anyone can download & start exploiting it to gauge their preparedness for the real world engagements. The current version covering over 10+ vulnerabilities ranging from misconfiguration all the way up to Privilege Escalation can be downloaded from https://kb.purplesynapz.com/purplebox.
+Further discussion upon the purplebox vulnerabilities can be carried on https://t.me/PurpleSynapz/7
